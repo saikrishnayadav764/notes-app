@@ -61,7 +61,7 @@ notes-app/
 
 To set up the application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/saikrishnayadav764/notes-app.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
