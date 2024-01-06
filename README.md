@@ -15,8 +15,6 @@ The Notes Application is a Node.js-based system designed to manage and store not
 - [Allowed Users](#allowed-users)
 - [Testing](#testing)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
