@@ -15,6 +15,7 @@ The Notes Application is a Node.js-based system designed to manage and store not
 - [Allowed Users](#allowed-users)
 - [Testing](#testing)
 - [Technologies Used](#technologies-used)
+- [Deployed API Link](#Deployed-Link)
 
 ## Introduction
 
@@ -149,3 +150,8 @@ The application includes comprehensive test suites to validate the implemented f
 - MongoDB
 - Mongoose
 - JSON Web Tokens (JWT)
+
+## Deployed Link
+
+https://puce-aggressive-anemone.cyclic.app/api/notes
+
