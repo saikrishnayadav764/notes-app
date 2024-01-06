@@ -1,7 +1,3 @@
-Certainly! Below is an updated version of the README file that includes various `curl` commands for interacting with different API endpoints:
-
----
-
 # Notes Application
 
 The Notes Application is a Node.js-based system designed to manage and store notes securely. It offers functionalities to create, read, update, and delete notes via a RESTful API.
