@@ -20,7 +20,7 @@ The Notes Application is a Node.js-based system designed to manage and store not
 
 ## Introduction
 
-The Notes Application is a powerful tool built using Node.js and Express.js, designed to facilitate efficient note-taking functionalities. Leveraging MongoDB for data storage, it allows users to manage notes through a RESTful API while ensuring data security.
+The Notes Application is a built using Node.js and Express.js, designed to facilitate efficient note-taking functionalities. Leveraging MongoDB for data storage, it allows users to manage notes through a RESTful API while ensuring data security.
 
 ## Features
 
