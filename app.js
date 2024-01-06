@@ -4,6 +4,7 @@ const mongoose = require("mongoose");
 const notesRoutes = require("./routes/notesRoutes");
 const authRoutes = require("./routes/authRoutes");
 const dbURI = process.env.DB_URI;
+const cors = require('cors');
 
 const app = express();
 
