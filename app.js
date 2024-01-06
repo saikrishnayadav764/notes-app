@@ -6,6 +6,11 @@ const authRoutes = require("./routes/authRoutes");
 const dbURI = process.env.DB_URI;
 
 const app = express();
+
+app.use(cors({
+  origin: '*'
+}));
+
 app.use(express.json());
 
 // Connecting to MongoDB
