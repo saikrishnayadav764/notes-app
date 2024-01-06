@@ -26,7 +26,6 @@ The Notes Application is a built using Node.js and Express.js, designed to facil
 
 - **Create, Read, Update, Delete (CRUD) Operations**: Provides API endpoints to perform CRUD operations on notes.
 - **User Authentication**: Implements user authentication using JSON Web Tokens (JWT) to secure API routes.
-- **Flexible and Scalable**: Offers scalability with a flexible architecture, allowing easy expansion of features.
 
 ## Folder Structure
 
