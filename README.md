@@ -65,8 +65,7 @@ To set up the application locally, follow these steps:
 
 1. Clone the repository: `git clone <repository-url>`
 2. Install dependencies: `npm install`
-3. Configure environment variables: Create a `.env` file and define necessary variables.
-4. Start the server: `npm start`
+3. Start the server: `npm start`
 
 ## Usage
 
